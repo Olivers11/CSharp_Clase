@@ -1,0 +1,15 @@
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\bin\Release\net6.0\ClaseEjemplo.exe
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\bin\Release\net6.0\ClaseEjemplo.deps.json
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\bin\Release\net6.0\ClaseEjemplo.runtimeconfig.json
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\bin\Release\net6.0\ClaseEjemplo.dll
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\bin\Release\net6.0\ClaseEjemplo.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.csproj.AssemblyReference.cache
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.AssemblyInfoInputs.cache
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.AssemblyInfo.cs
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.csproj.CoreCompileInputs.cache
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.dll
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\refint\ClaseEjemplo.dll
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.pdb
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ClaseEjemplo.genruntimeconfig.cache
+C:\Users\olste\Desktop\OLIVER 2019\Cursos\CSharp\ClaseEjemplo\ClaseEjemplo\obj\Release\net6.0\ref\ClaseEjemplo.dll
