@@ -1,63 +1,38 @@
-﻿
 //clases
 
 using ClaseEjemplo;
 
-int tamanio = 0;
-Alumno[] alumnos;
-int opcion;
 
-Console.Write("Cuantos alumnos desea ingresar?: ");
-tamanio = Convert.ToInt32(Console.ReadLine());
-alumnos = new Alumno[tamanio];
 
-int posicion = 0;
 
-do
+int[] numeros = new int[5];
+
+
+for(int i = 0; i < 5; i++)
 {
-    Console.Clear();
-    Console.WriteLine("1- Ingresar alumno");
-    Console.WriteLine("2- Ver Alumnos");
-    Console.WriteLine("3- Salir");
-    opcion = Convert.ToInt32(Console.ReadLine());
+    Console.Write("Ingrese un numero: ");
+    numeros[i] = Convert.ToInt32(Console.ReadLine());
+}
 
-    if (opcion == 1)
+
+int mayor = 0;
+int menor = numeros[0];
+
+for(int i = 0; i < 5; i++)
+{
+    if (numeros[i] > mayor)
     {
-        Console.Clear();
-        if (posicion == tamanio)
-        {
-            Console.WriteLine("lista llena");
-            Console.ReadKey();
-        }
-        else
-        {
-            Console.Write("Nombre: ");
-            string nombre = Console.ReadLine();
-
-            Console.Write("Carnet: ");
-            string carnet = Console.ReadLine();
-
-            Console.Write("Semestre: ");
-            int semestre = Convert.ToInt32(Console.ReadLine());
-
-            alumnos[posicion] = new Alumno(nombre, carnet, semestre);
-            posicion++;
-            Console.WriteLine("Alumno ingresado correctamente :D");
-            Console.ReadKey(true);
-        }
+        mayor = numeros[i];
     }
-    else if (opcion == 2)
+
+
+    if (numeros[i]  < menor)
     {
-        Console.Clear();
-        Console.WriteLine("==== LISTADO ===");
-        for (int i = 0; i < posicion; i++)
-        {
-            alumnos[i].imprimirDatos();
-            Console.WriteLine();
-        }
-        Console.ReadKey(true);
+        menor = numeros[i];
     }
-} while (opcion != 3);
+}
+
+Console.WriteLine("El menor es: " + menor);
 
 
 
